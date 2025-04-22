@@ -2,7 +2,7 @@
 Project Frontend Basics 1[roadmap.sh](https://roadmap.sh/projects/single-page-cv).
 
 ## URL REPOSITORY
-https://tu-usuario.github.io/nombre-repositorio/
+https://github.com/Markho84/single-page-cv
 
 ## Tecnhnology
 - HTML5
